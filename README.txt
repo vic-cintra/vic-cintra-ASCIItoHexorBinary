@@ -15,9 +15,11 @@ xed -b include.txt
 
 If xCode is not installed, the application can be run from the terminal using:
 g++ xed.cpp -o xed
+
 Then for hex enter:
 ./xed include.txt
+
 Or for binary enter:
 ./xed -b include.txt
 
-The makefile takes care of the inputs required. However, if you would like to run a different file through, you can copy and paste it and replace Churchills speech.
+The makefile takes care of the inputs required. Also, if you would like to run a different file through, you can copy and paste it and replace Churchills speech.
