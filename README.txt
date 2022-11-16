@@ -2,7 +2,7 @@ Victor Cintra
 Spring 2022
 Hex and binary converter
 
-This project can take any text, in this case Winston Churchill's speech, and convert it into binary or hex.
+This project can take any text, in this case Winston Churchill's speech, and convert it into binary or hex. It was coded in terminal using vim and an ssh.
 
 This project contains a Makefile, an include.txt file (Winston Churchill's speech), an
 xed.cpp file (source code), and a README.txt file.
